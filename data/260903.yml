@@ -1,0 +1,57 @@
+about:
+  description: 🦉 Data Versioning and ML Experiments
+  license: Apache-2.0
+  homepage: https://dvc.org
+  head: 56e5982
+  archived: false
+  latestVersion: 3.67.1
+  collectedAt: 2026-09-03T04:34:32Z
+timeline:
+  created: 2017-03-04
+  lastCommit: 2026-08-06
+  lastRelease: 2026-03-31
+popularity:
+  star: 15856
+  watcher: 134
+  fork: 1328
+  release: 565
+  contributor: 295
+  pullRequest: 765
+  issue: 4889
+language:
+  Python: 2734311
+  Shell: 35
+totalLine: 2734346
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-05
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-03-07
+    release: 2
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-09-08
+    release: 8
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
