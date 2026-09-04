@@ -7,7 +7,7 @@ about:
   head: 56e5982
   archived: false
   latestVersion: 3.67.1
-  collectedAt: 2026-09-04T19:36:14Z
+  collectedAt: 2026-09-04T20:56:31Z
 timeline:
   created: 2017-03-04
   lastCommit: 2026-08-06
@@ -81,6 +81,44 @@ total:
   openIssue: 176
   commit: 9568
 ---
+path: /home/runner/.x-repo/github.com/iterative/dvc
+collectedAt: 2026-09-04T20:56:33Z
+loc:
+  Python:
+    code: 71075
+    comments: 1526
+    blanks: 16110
+    files: 554
+  Toml:
+    code: 278
+    comments: 8
+    blanks: 27
+    files: 1
+  ReStructuredText:
+    code: 214
+    comments: 0
+    blanks: 100
+    files: 2
+  Yaml:
+    code: 13
+    comments: 0
+    blanks: 0
+    files: 1
+  Sh:
+    code: 1
+    comments: 1
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 58
+    blanks: 19
+    files: 2
+total:
+  code: 71581
+  comments: 1593
+  blanks: 16256
+  files: 561
 ---
 date: "2026-08-24"
 repo:
