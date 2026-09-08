@@ -5,13 +5,13 @@ about:
   head: 56e5982
   archived: false
   latestVersion: "3.67.1"
-  collectedAt: 2026-09-08T02:03:43Z
+  collectedAt: 2026-09-08T04:41:53Z
 timeline:
   created: 2017-03-04
   lastCommit: 2026-08-06
   lastRelease: 2026-03-31
 popularity:
-  star: 15864
+  star: 15865
   watcher: 135
   fork: 1328
   release: 565
@@ -80,7 +80,7 @@ total:
   commit: 9568
 ---
 path: /home/runner/.x-repo/github.com/iterative/dvc
-collectedAt: 2026-09-08T02:03:46Z
+collectedAt: 2026-09-08T04:41:56Z
 loc:
   Python:
     code: 71075
