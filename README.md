@@ -22,11 +22,10 @@ x install dvc
 
 - **Latest**: `3.67.1` (2026-03-31)
 - **Last commit**: 2026-08-06
-- **Published**: 2026-03-31T05:06:44Z
 
 ## Popularity
 
-- **Stars**: 15,866 · **Forks**: 1,327 · **Open issues**: 4,890 · **Contributors**: 295
+- **Stars**: 15,867 · **Forks**: 1,327 · **Open issues**: 4,890 · **Contributors**: 295
 
 ## Totals (cumulative)
 
@@ -67,8 +66,8 @@ Lowest-scoring checks:
 Install metadata for dvc lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `dvc` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/dvc.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/dvc.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:44:58Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:30:21Z._

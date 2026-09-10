@@ -4,7 +4,7 @@
 
 🦉 Data Versioning and ML Experiments
 
-![dvc](https://repo.x-cmd.io/dvc.svg)
+![dvc](https://repo.x-cmd.io/dvc.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,10 @@ x install dvc
 
 - **最新版本**: `3.67.1` (2026-03-31)
 - **最近提交**: 2026-08-06
-- **发布时间**: 2026-03-31T05:06:44Z
 
 ## 流行度
 
-- **Star**: 15,866 · **Fork**: 1,327 · **开放 issue**: 4,890 · **贡献者**: 295
+- **Star**: 15,867 · **Fork**: 1,327 · **开放 issue**: 4,890 · **贡献者**: 295
 
 ## 累计统计
 
@@ -71,4 +70,4 @@ dvc 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:44:59Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:30:21Z._
