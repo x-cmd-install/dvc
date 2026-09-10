@@ -1,0 +1,191 @@
+- repo: aosc
+  srcname: app-vcs/dvc
+  binname: dvc
+  visiblename: dvc
+  version: 3.67.1
+  origversion: null
+  status: newest
+  summary: Open-source version control system for Data Science and Machine Learning projects
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - vcs
+- repo: aur
+  srcname: dvc
+  binname: dvc
+  visiblename: dvc
+  version: 3.67.1
+  origversion: 3.67.1-1
+  status: newest
+  summary: Open-source version control system for data science projects
+  maintainers:
+    - alerque@aur
+  licenses:
+    - Apache-2.0
+- repo: chocolatey
+  binname: dvc
+  visiblename: DVC
+  version: 3.64.0
+  origversion: null
+  status: outdated
+  summary: Git for data scientists - manage your code and data together
+- repo: homebrew
+  srcname: dvc
+  visiblename: dvc
+  version: 3.67.1
+  origversion: null
+  status: newest
+  summary: Git for data science projects
+- repo: nix_stable_24_05
+  srcname: dvc
+  visiblename: dvc
+  version: 3.50.0
+  origversion: null
+  status: outdated
+  summary: Version Control System for Machine Learning Projects
+  maintainers:
+    - roger.qiu@matrix.ai
+    - mail@fabian-affolter.ch
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_05
+  srcname: dvc-with-remotes
+  visiblename: dvc
+  version: 3.50.0
+  origversion: null
+  status: outdated
+  summary: Version Control System for Machine Learning Projects
+  maintainers:
+    - roger.qiu@matrix.ai
+    - mail@fabian-affolter.ch
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: dvc
+  visiblename: dvc
+  version: 3.56.0
+  origversion: null
+  status: outdated
+  summary: Version Control System for Machine Learning Projects
+  maintainers:
+    - roger.qiu@matrix.ai
+    - mail@fabian-affolter.ch
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: dvc-with-remotes
+  visiblename: dvc
+  version: 3.56.0
+  origversion: null
+  status: outdated
+  summary: Version Control System for Machine Learning Projects
+  maintainers:
+    - roger.qiu@matrix.ai
+    - mail@fabian-affolter.ch
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: dvc
+  visiblename: dvc
+  version: 3.59.2
+  origversion: null
+  status: outdated
+  summary: Version Control System for Machine Learning Projects
+  maintainers:
+    - roger.qiu@matrix.ai
+    - mail@fabian-affolter.ch
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: dvc-with-remotes
+  visiblename: dvc
+  version: 3.59.2
+  origversion: null
+  status: outdated
+  summary: Version Control System for Machine Learning Projects
+  maintainers:
+    - roger.qiu@matrix.ai
+    - mail@fabian-affolter.ch
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: dvc
+  visiblename: dvc
+  version: 3.63.0
+  origversion: null
+  status: outdated
+  summary: Version Control System for Machine Learning Projects
+  maintainers:
+    - roger.qiu@matrix.ai
+    - mail@fabian-affolter.ch
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: dvc-with-remotes
+  visiblename: dvc
+  version: 3.63.0
+  origversion: null
+  status: outdated
+  summary: Version Control System for Machine Learning Projects
+  maintainers:
+    - roger.qiu@matrix.ai
+    - mail@fabian-affolter.ch
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: dvc
+  visiblename: dvc
+  version: 3.67.1
+  origversion: null
+  status: newest
+  summary: Version Control System for Machine Learning Projects
+  maintainers:
+    - roger.qiu@matrix.ai
+    - mail@fabian-affolter.ch
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: dvc-with-remotes
+  visiblename: dvc
+  version: 3.67.1
+  origversion: null
+  status: newest
+  summary: Version Control System for Machine Learning Projects
+  maintainers:
+    - roger.qiu@matrix.ai
+    - mail@fabian-affolter.ch
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: dvc
+  visiblename: dvc
+  version: 3.67.1
+  origversion: null
+  status: newest
+  summary: Version Control System for Machine Learning Projects
+  maintainers:
+    - roger.qiu@matrix.ai
+    - mail@fabian-affolter.ch
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: dvc-with-remotes
+  visiblename: dvc
+  version: 3.67.1
+  origversion: null
+  status: newest
+  summary: Version Control System for Machine Learning Projects
+  maintainers:
+    - roger.qiu@matrix.ai
+    - mail@fabian-affolter.ch
+  licenses:
+    - Apache-2.0
+- repo: scoop
+  subrepo: main
+  binname: dvc
+  visiblename: dvc
+  version: 3.67.1
+  origversion: null
+  status: newest
+  licenses:
+    - Apache-2.0
