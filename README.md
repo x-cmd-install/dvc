@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,867 · **Forks**: 1,327 · **Open issues**: 4,890 · **Contributors**: 295
+- **Stars**: 15,866 · **Forks**: 1,327 · **Open issues**: 4,890 · **Contributors**: 295
 
 ## Totals (cumulative)
 
@@ -82,4 +82,4 @@ Install metadata for dvc lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:47:24Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:18:02Z._
