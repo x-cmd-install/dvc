@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,928 · **Forks**: 1,385 · **Open issues**: 4,899 · **Contributors**: 294
+- **Stars**: 15,930 · **Forks**: 1,410 · **Open issues**: 4,900 · **Contributors**: 294
 
 ## Totals (cumulative)
 
-- **Releases**: 565 · **Merged PRs**: 5046 · **Open PRs**: 35 · **Closed issues**: 4713 · **Open issues**: 186 · **Commits**: 9568
+- **Releases**: 565 · **Merged PRs**: 5046 · **Open PRs**: 35 · **Closed issues**: 4713 · **Open issues**: 187 · **Commits**: 9568
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-23 | 8 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-28 | 18 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-19 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-20 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-24 | 8 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-29 | 18 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for dvc lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T04:29:00Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T04:42:28Z._
