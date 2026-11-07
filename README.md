@@ -14,12 +14,12 @@ x install dvc
 
 ## Code insight
 
-Total: **71,582** lines of code across **559** files in the top 5 languages.
+Total: **71,637** lines of code across **559** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 71,076 | 1,526 | 16,110 | 554 |
-| Toml | 278 | 8 | 27 | 1 |
+| Python | 71,132 | 1,537 | 16,130 | 554 |
+| Toml | 277 | 8 | 27 | 1 |
 | ReStructuredText | 214 | 0 | 100 | 2 |
 | Yaml | 13 | 0 | 0 | 1 |
 | Sh | 1 | 1 | 0 | 1 |
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,963 · **Forks**: 1,342 · **Open issues**: 4,905 · **Contributors**: 295
+- **Stars**: 15,967 · **Forks**: 1,343 · **Open issues**: 4,905 · **Contributors**: 297
 
 ## Totals (cumulative)
 
-- **Releases**: 565 · **Merged PRs**: 5047 · **Open PRs**: 40 · **Closed issues**: 4713 · **Open issues**: 192 · **Commits**: 9569
+- **Releases**: 565 · **Merged PRs**: 5054 · **Open PRs**: 35 · **Closed issues**: 4715 · **Open issues**: 190 · **Commits**: 9576
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-07 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-08 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-10 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-11 | 8 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-16 | 18 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-08 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-08 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-09 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-12 | 8 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-17 | 18 | 0 | 0 | 0 | 0 | 0 |
 
 ## Distribution status
 
@@ -82,4 +82,4 @@ Install metadata for dvc lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:43:53Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:08:09Z._
