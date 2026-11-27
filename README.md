@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 16,001 · **Forks**: 1,350 · **Open issues**: 4,906 · **Contributors**: 297
+- **Stars**: 16,002 · **Forks**: 1,351 · **Open issues**: 4,906 · **Contributors**: 297
 
 ## Totals (cumulative)
 
@@ -57,21 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-30 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-12-01 | 7 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-06 | 16 | 0 | 0 | 0 | 0 | 0 |
-
-## Distribution status
-
-Reported by **17** distros on [repology.org](https://repology.org/project/dvc). **8** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `3.67.1` | ✅ latest |
-| Nix unstable | `3.67.1` | ✅ latest |
+| 30d | 2026-10-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-29 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-31 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-12-02 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-07 | 16 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -82,4 +73,4 @@ Install metadata for dvc lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:12:26Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T08:33:39Z._
